@@ -102,6 +102,8 @@
     flex-direction: row;
     max-width: 100%;
     margin: 1em 0 2em 0;
+    border: 5px solid rgb(60, 111, 243);
+    border-radius: 5px;
   
     /* Debug border */
     /* border: 2px solid blue; */
