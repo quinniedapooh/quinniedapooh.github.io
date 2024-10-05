@@ -201,6 +201,16 @@
     line-height: 1.5;
   }
   
+  /* CSS for blog page */
+  
+  .blog-info {
+    background-color: rgb(198, 204, 238);
+    border: 5px solid rgb(60, 111, 243);
+    padding: 0 20px;
+  }
+
+
+
   /* CSS for resume page */
   
   .button {
@@ -220,6 +230,12 @@
     background-color: var(--cg-blue);
   }
   
+  .resume-info {
+    background-color: rgb(198, 204, 238);
+    border: 5px solid rgb(60, 111, 243);
+    padding: 0 20px;
+  }
+
   .resume h2 {
     font-family: Arial, Helvetica, sans-serif;
   }
